@@ -14,6 +14,10 @@ export default function App() {
       <Weather />
       <br />
       <Forecast />
+      <br />
+      <a href="https://github.com/ADCeres/weather-react">
+        https://github.com/ADCeres/weather-react
+      </a>
     </div>
   );
 }
